@@ -1,4 +1,6 @@
-# Deployment of Machine Learning Models
-Accompanying repo for the online course Deployment of Machine Learning Models.
+# Customer-Churn-Prediction
 
-For the documentation, visit the [course on Udemy](https://www.udemy.com/deployment-of-machine-learning-models/?couponCode=TIDREPO).
+Analytics case study for:
+
+- Understanding customer churn in a telecom company and applying various machine learning models to predict the next leavers.
+- Creating and deploying a CICD pipeline for the generated ML model.
